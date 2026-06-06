@@ -1,16 +1,21 @@
-## Hi there 👋
+# Sam Jenish C | Junior Developer
 
-<!--
-**SamJenish/SamJenish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm a motivated developer specializing in full-stack web development, 
+with hands-on experience building projects using modern JavaScript frameworks and backend technologies.
 
-Here are some ideas to get you started:
+**Technical Skills:**
+- Frontend: HTML5, CSS3, JavaScript (ES6+), React
+- Backend: Node.js, Express.js, RESTful APIs
+- Databases: MongoDB, PostgreSQL
+- Tools: Git, GitHub, VS Code, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Focus:** Mastering full-stack development and contributing to open-source projects
+
+**Projects Highlights:**
+- [Project Name] - Brief description
+- [Project Name] - Brief description
+
+**Get in Touch:**
+- 📧 Email: samjenish@gmail.com
+- 💼 LinkedIn: [Your Profile](www.linkedin.com/in/sam-jenish-c-7bb25b350)
+- 🌐 Portfolio: [Your Website](https://sam-jenish.vercel.app/)
