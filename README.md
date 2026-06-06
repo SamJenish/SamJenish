@@ -17,5 +17,5 @@ with hands-on experience building projects using modern JavaScript frameworks an
 
 **Get in Touch:**
 - 📧 Email: samjenish@gmail.com
-- 💼 LinkedIn: [Your Profile](www.linkedin.com/in/sam-jenish-c-7bb25b350)
-- 🌐 Portfolio: [Your Website](https://sam-jenish.vercel.app/)
+- 💼 LinkedIn: [Click Here](www.linkedin.com/in/sam-jenish-c-7bb25b350)
+- 🌐 Portfolio: [Click Here](https://sam-jenish.vercel.app/)
